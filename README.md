@@ -26,11 +26,11 @@ Joined Github **3** years ago.
 </p>
 <hr>
 
-<!-- Like My Work?
+Like My Work?
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<a href="https://buymeacoffee.com/harsh_5401" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" /> -->
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 
 ### Talking about Personal Stuff:
 
@@ -64,8 +64,12 @@ Joined Github **3** years ago.
   <summary><b>⚡ Github Stats</b></summary>
 
   <br />
+
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-5401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-5401&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-5401"/>
+
 </details>
 
 <details>

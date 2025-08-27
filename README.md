@@ -67,6 +67,9 @@ Like My Work?
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-5401&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harsh-5401&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&token=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" />
+
+
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harsh-5401"/>
 
